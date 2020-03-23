@@ -1,1 +1,1 @@
-{"ready":true,"intensive":0,"hospital":"0","nationality":{"in":"0","out":"0"},"source":{"local":"0","import":"0"},"city":{"Riyadh":0,"Jeddah":0,"Makkah":0,"Medina":"0","Dammam":0,"Taif":0,"Tabuk":0,"Al_Kharj":0,"Buraidah":0}}
+{"ready":true,"intensive":"0","hospital":"0","recovered":0,"deaths":0,"nationality":{"in":"0","out":"0"},"source":{"local":"0","import":"0"},"area":"jwf","city":{"mkh":{"mk":"0"},"ard":{"ar":"0","zl":"0","kr":"0","he":"0"},"jza":{"sb":"0","aa":"0","am":"0"},"tbk":{"ta":"0","aw":"0","ha":"0"}}}
